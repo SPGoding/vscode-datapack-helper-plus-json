@@ -147,7 +147,7 @@
                         "registry": "$functions"
                     },
                     "title": "A function to run as the player",
-                    "description": "A single function to run as the player. Uses the path to the function (with the first folder within thefunction folder being the namespace)"
+                    "description": "A single function to run as the player. Uses the path to the function (with the first folder within the function folder being the namespace)"
                 }
             }
         }
